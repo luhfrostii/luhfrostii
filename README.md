@@ -1,16 +1,29 @@
-## Hi there 👋
+# frostii
 
-<!--
-**luhfrostii/luhfrostii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Current Occupation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Business Owner, Expert Developer and Professional Web Creator.**
+
+---
+
+## 🛡️ Professional Developer
+
+![Verified Developer](https://img.shields.io/badge/EXPERT%20GAME%20DEV-444444?style=for-the-badge)
+![Experienced Web Developer](https://img.shields.io/badge/EXPERIENCED%20BUSINESS%20OWNER-006400?style=for-the-badge)
+![7+ Years of Developing](https://img.shields.io/badge/PROFESSIONAL%20WEB%20DEVELOPER-0078D7?style=for-the-badge)
+![Popular Game Creator](https://img.shields.io/badge/SOFTWARE%20ENGINEER-808080?style=for-the-badge)
+
+Experienced Roblox Game Developer - Nearly a decade in creating roblox games.
+
+Professional Website Developer - Years of creating websites.
+
+Expert Business Owner & Entrepreneur - Has owned and currently owns businesses.
+
+Uprising Software Creator - Learning to create software professionally.
+
+---
+
+
+Trusted and known by many. Thousands in revenue. Contact @luhfrostii on Discord for questions, concerns and inquiries.
