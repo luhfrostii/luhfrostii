@@ -8,7 +8,7 @@
 
 ---
 
-## 🛡️ Professional Developer
+## 🛡️ Professional Developer & Entrepreneur
 
 ![Verified Developer](https://img.shields.io/badge/EXPERT%20GAME%20DEV-444444?style=for-the-badge)
 ![Experienced Web Developer](https://img.shields.io/badge/EXPERIENCED%20BUSINESS%20OWNER-006400?style=for-the-badge)
@@ -19,11 +19,11 @@ Experienced Roblox Game Developer - Nearly a decade in creating roblox games.
 
 Professional Website Developer - Years of creating websites.
 
-Expert Business Owner & Entrepreneur - Has owned and currently owns businesses.
+Expert Business Owner & Entrepreneur - Has owned and currently owns profitable, legitimate businesses.
 
 Uprising Software Creator - Learning to create software professionally.
 
 ---
 
 
-Trusted and known by many. Thousands in revenue. Contact @luhfrostii on Discord for questions, concerns and inquiries.
+Trusted and known. Thousands in total revenue. Contact @luhfrostii on Discord for questions, concerns and inquiries.
