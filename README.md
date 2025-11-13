@@ -3,9 +3,7 @@
 <h1 align="center">❄️ Hey, I’m <span style="color:#7DE1FF;">Frostii!</span></h1>
 <p align="center">🚀 Entrepreneur • 💻 Game Developer • ⚓ Web Developer</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=7DE1FF&center=true&vCenter=true&width=550&lines=Web+Developer+%7C Code+Developer+%7C+Game+Developer;Building+Businesses+%26+Websites;Trusted+by+Many+|+Thousands+In+Revenue." alt="Typing Animation">
-</p>
+<p align="center">🤝 Trusted By Many • 🔮 7+ Years In ROBLOX Game Development • ❄️ FRZ & Arctyx Games</p>
 
 ---
 
