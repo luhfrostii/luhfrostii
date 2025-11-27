@@ -3,7 +3,7 @@
 <h1 align="center">❄️ Hey, I’m <span style="color:#7DE1FF;">Frostii!</span></h1>
 <p align="center">🚀 Entrepreneur • 💻 Game Developer • ⚓ Web Developer</p>
 
-<p align="center">🤝 Trusted By Many • 🔮 7+ Years In ROBLOX Game Development • ❄️ Arctyx Studios Founder</p>
+<p align="center">🤝 Trusted By Many • 🔮 7+ Years In ROBLOX Game Development • ❄️ Glacier Studios Founder</p>
 
 ---
 
